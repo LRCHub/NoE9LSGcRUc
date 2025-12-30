@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "俺は俺",
+  "base_artist": "OUS BRIAN",
+  "createdAt": "2025-12-30T13:53:11.585808Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "俺は俺",
+      "artist": "OUS BRIAN",
+      "has_synced": false,
+      "path": "select/pl_01_俺は俺_OUS_BRIAN.txt"
+    }
+  ]
+}
